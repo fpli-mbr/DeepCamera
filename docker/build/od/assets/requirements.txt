@@ -12,7 +12,7 @@ oss2==2.2.3
 pbr==2.0.0
 requests==2.13.0
 SQLAlchemy==1.1.6
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 imutils==0.4.0
 qiniu==7.2.0
 paho-mqtt==1.3
